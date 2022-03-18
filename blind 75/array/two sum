@@ -6,6 +6,6 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
 
-brute force solution: Loop through each element x and find if another value equals to target-x
+brute force solution: Loop through each element x and find if another value equal to target-x
 optimize solution: 
 time / space complexity: 
