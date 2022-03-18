@@ -6,6 +6,6 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
     
 
-brute force solution: calculate maximum difference (maximum profit) between two number in given array. Also, second number (selling price) must be larger than first number (buying price).
+brute force solution:
 optimize solution: 
 time / space complexity: 
