@@ -6,6 +6,6 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
     
 
-brute force solution:
-optimize solution:
-time / space complexity:
+brute force solution
+optimize solution
+time / space complexity
