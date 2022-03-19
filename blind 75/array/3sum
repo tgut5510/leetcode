@@ -5,6 +5,6 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
     
 
-brute force solution:
-optimize solution:
-time / space complexity:
+brute force solution
+optimize solution
+time / space complexity
