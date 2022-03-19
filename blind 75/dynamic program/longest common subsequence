@@ -7,6 +7,6 @@ class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
     
     
-brute force solution:
-optimize solution:
-time / space complexity:
+brute force solution
+optimize solution
+time / space complexity
