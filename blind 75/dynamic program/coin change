@@ -6,6 +6,6 @@ class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
     
     
-brute force solution:
-optimize solution:
-time / space complexity:
+brute force solution
+optimize solution
+time / space complexity
