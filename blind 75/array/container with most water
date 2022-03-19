@@ -7,6 +7,6 @@ class Solution:
     def maxArea(self, height: List[int]) -> int:
     
 
-brute force solution:
-optimize solution:
-time / space complexity: 
+brute force solution
+optimize solution
+time / space complexity
