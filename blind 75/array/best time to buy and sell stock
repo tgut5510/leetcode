@@ -6,6 +6,6 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
     
 
-brute force solution:
-optimize solution: 
-time / space complexity: 
+brute force solution
+optimize solution
+time / space complexity
