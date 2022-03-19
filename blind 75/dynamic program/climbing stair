@@ -5,6 +5,6 @@ class Solution:
     def climbStairs(self, n: int) -> int:
     
     
-brute force solution:
-optimize solution:
-time / space complexity: 
+brute force solution
+optimize solution
+time / space complexity
