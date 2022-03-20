@@ -9,6 +9,6 @@ class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
     
     
-brute force solution:
-optimize solution:
-time / space complexity:
+brute force solution
+optimize solution
+time / space complexity
