@@ -6,6 +6,6 @@ class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
     
     
-brute force solution:
-optimize solution:
-time / space complexity: 
+brute force solution
+optimize solution
+time / space complexity
