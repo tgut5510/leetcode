@@ -11,6 +11,6 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
     
     
-brute force solution:
-optimize solution:
-time / space complexity:
+brute force solution
+optimize solution
+time / space complexity
