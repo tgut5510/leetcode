@@ -1,16 +1,54 @@
-- Given a target find minimum (maximum) cost / path / sum to reach the target.
-Choose minimum (maximum) path among all possible paths before the current state, then add value for the current state.
-Generate optimal solutions for all values in the target and return the value for the target.
+if given linear data structure
+if ask for longest/shortest substring/subarray or desire value
+- sliding window
 
-- Given a target find a number of distinct ways to reach the target.
-Generate sum for all values in the target and return the value for the target.
+if given linear data structure
+if array item equal pair/triplet/subarray
+- two pointer
 
-- Given a set of numbers find an optimal solution for a problem considering the current number and the best you can get from the left and right sides.
-Find all optimal solutions for every interval and return the best possible answer.
-Get the best from the left and right sides and add a solution for the current position.
+if given linear data structure loop
+if ask for item position or data structure length
+- fast and slow pointer
 
-- Given two strings s1 and s2, return some result.
-Most of the problems on this pattern requires a solution that can be accepted in O(n^2) complexity.
+if given overlap interval
+if ask for list with mutual exclusive interval
+- merge interval
 
-- Given a set of values find an answer with an option to choose or ignore the current value.
-If you decide to choose the current value use the previous result where the value was ignored; vice-versa, if you decide to ignore the current value use previous result where value was used.
+if given sort linear data structure
+if ask for missing/duplicate/smallest value within sort/rotate data structure
+- cyclic sort
+
+if ask for reverse link list without extra memory utilization
+- in place link list reversal
+
+if ask for tree traversal within each level
+- breadth first search
+
+if ask for tree traversal with inorder/preorder/postorder depth first search
+if ask for leaf search
+- depth first search
+
+if given priority data structure
+if ask for smallest/largest/median item within set
+if given binary tree data structure
+- two heap
+
+if ask for set combination/permutation
+- subset
+
+if given sort linear data structure
+if ask for specific item
+- binary search
+
+if ask for top/smallest/frequent "k" item within set
+if ask to sort linear data structure for specific item
+- top "k" item
+
+if given sort linear data structure
+if ask to merge sort linear data structure and search smallest item within data structure
+- k-way merge
+
+if given undirect graph
+if given item class with particular order
+if ask to update all item into sort
+- topological sort
