@@ -10,6 +10,6 @@ class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
     
     
-brute force solution:
-optimize solution:
-time / space complexity: 
+brute force solution
+optimize solution
+time / space complexity
