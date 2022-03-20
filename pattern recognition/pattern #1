@@ -23,7 +23,7 @@ If must solve in-place
 - Swap correspond value
 - Store one or more different value withinh same pointer
 
-If ask for maximum/minimum subarray/subset/option
+If ask for maximum/minimum subarray/subset option
 - Dynamic program
 
 If ask for top/least K item
