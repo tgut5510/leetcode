@@ -4,6 +4,6 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
     
     
-brute force solution:
-optimize solution:
-time / space complexity:
+brute force solution
+optimize solution
+time / space complexity
