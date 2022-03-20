@@ -1,8 +1,4 @@
-Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge is a pair of nodes), write a function to check whether these edges make up a valid tree.
-
-class Solution:
-    def validTree(self, n: int, edges: List[List[int]]) -> bool:
-    
+Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge is a pair of nodes), write a function to check whether these edges make up a valid tree.    
     
 brute force solution
 optimize solution
