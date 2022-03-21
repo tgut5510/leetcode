@@ -1,0 +1,54 @@
+if given linear data structure
+if ask for longest/shortest substring/subarray or desire value
+- sliding window
+
+if given linear data structure
+if array item equal pair/triplet/subarray
+- two pointer
+
+if given linear data structure loop
+if ask for item position or data structure length
+- fast and slow pointer
+
+if given overlap interval
+if ask for list with mutual exclusive interval
+- merge interval
+
+if given sort linear data structure
+if ask for missing/duplicate/smallest value within sort/rotate data structure
+- cyclic sort
+
+if ask for reverse link list without extra memory utilization
+- in place link list reversal
+
+if ask for tree traversal within each level
+- breadth first search
+
+if ask for tree traversal with inorder/preorder/postorder depth first search
+if ask for leaf search
+- depth first search
+
+if given priority data structure
+if ask for smallest/largest/median item within set
+if given binary tree data structure
+- two heap
+
+if ask for set combination/permutation
+- subset
+
+if given sort linear data structure
+if ask for specific item
+- binary search
+
+if ask for top/smallest/frequent "k" item within set
+if ask to sort linear data structure for specific item
+- top "k" item
+
+if given sort linear data structure
+if ask to merge sort linear data structure and search smallest item within data structure
+- k-way merge
+
+if given undirect graph
+if given item class with particular order
+if ask to update all item into sort
+- topological sort
