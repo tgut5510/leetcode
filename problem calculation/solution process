@@ -5,8 +5,9 @@ categorize problem
 
 categorize solution
 - breadth first search or depth first search
+- backtrack or branch & bound
 - recursion or iteration
-- backtrack or branch & bound 
+- tabulation or memoization
 
 test case
 - number: zero/positive/negative/duplicate/sort/unsort/empty input/single value input/min integer/max integer/null
@@ -14,7 +15,7 @@ test case
 - stack/queue: push pop/queue enqueue from empty data structure
 - hash: nonexistent key within hash map/table
 - sort: ascend/descend
-- search: 
+- search: preorder/inorder/postorder
 - tree: full/empty/balance/unbalance/direct/undirect/binary/nonbinary/complete/incomplete
 - graph: cyclic/acyclic/direct/undirect/weight/unweight/min weight/max weight/adj list/adj matrix
 - other: return correct value/memory space/pointer incrementation/pointer decrementation/division with zero/bound case/two equal value comparison/empty space
