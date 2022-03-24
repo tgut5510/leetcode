@@ -1,13 +1,8 @@
 categorize question
-- linear data structure or nonlinear data structure
-- search or sort
+
+data structure and algorithm selection
 
 categorize solution
-- breadth first search or depth first search
-- traverse or division & conquerization
-- dynamic program
-- recursion or iteration
-- algorithm selection
 
 test case
 - number: zero/positive/negative/duplicate/sort/unsort/empty input/single value input/min integer/max integer/null
