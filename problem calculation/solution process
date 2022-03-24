@@ -2,7 +2,7 @@ categorize question
 
 data structure and algorithm selection
 
-categorize solution
+calculate solution
 
 test case
 - number: zero/positive/negative/duplicate/sort/unsort/empty input/single value input/min integer/max integer/null
@@ -12,5 +12,5 @@ test case
 - sort: ascend/descend
 - search: preorder/inorder/postorder
 - tree: full/empty/balance/unbalance/direct/undirect/binary/nonbinary/complete/incomplete
-- graph: cyclic/acyclic/direct/undirect/weight/unweight/min weight/max weight/adj list/adj matrix
+- graph: cyclic/acyclic/direct/undirect/weight/unweight/min weight/max weight/adj list/adj matrix/ adj set
 - other: return correct value/memory space/pointer incrementation/pointer decrementation/division with zero/bound case/two equal value comparison/empty space
