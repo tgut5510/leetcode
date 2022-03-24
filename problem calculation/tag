@@ -15,7 +15,7 @@ data structure
 - segment tree
 - hash function
 - binary index tree
-- rolling hash
+- roll hash
 - monotonic queue
 - double link list
 - suffix array
@@ -27,22 +27,18 @@ algorithm
 - greedy
 - breadth first search
 - binary search
-- matrix
 - two pointer
-- bit manipulation
 - backtrack
 - count
 - sliding window
-- union find
+- union search
 - recursion
 - division and conquerization
 - topological sort
-- string match
 - memoization
 - tabulation
 - shortest path
 - merge sort
-- quickselect
 - bucket sort
 - minimum span tree
 - count sort
@@ -51,6 +47,7 @@ algorithm
 other question
 - math
 - database
+- bit manipulation
 - simulation
 - bitmask
 - enumeration
@@ -58,6 +55,7 @@ other question
 - game theory
 - interactive
 - data stream
+- string match
 - randomize
 - number theory
 - combinatoric
@@ -65,6 +63,7 @@ other question
 - concurrency
 - brainteaser
 - probability and statistic
+- quickselect
 - shell
 - line sweep
 - reservoir sample
