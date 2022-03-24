@@ -19,7 +19,6 @@ data structure
 - monotonic queue
 - double link list
 - suffix array
-- shell
 
 algorithm
 - dynamic program
