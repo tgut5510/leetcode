@@ -1,11 +1,12 @@
 categorize problem
 - linear data structure or nonlinear data structure
 - search or sort
-- dynamic program or division & conquerization
+- dynamic program
 
 categorize solution
 - breadth first search or depth first search
 - backtrack or branch & bound
+- traverse or division & conquerization
 - recursion or iteration
 - tabulation or memoization
 
